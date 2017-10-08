@@ -33,7 +33,8 @@
  * 
  * ChangeTimeout()  This functionis used to change echo timeout of receiveing pulse
  *                  by default the timeout is 20000 microseconds
- * Please note that you will get Approximated distance from HC-SR04 module which will be having pluse or minus 2% tolernace. 
+ * Please note that you will get Approximated distance from HC-SR04 module, 
+ * which will be having plus or minus 2% tolernace. 
  */
 #include<UltraDistSensor.h>
 UltraDistSensor mysensor;

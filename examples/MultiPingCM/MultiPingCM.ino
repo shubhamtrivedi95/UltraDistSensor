@@ -9,7 +9,7 @@
  * 
  * Shubham Trivedi on Oct 2017
  * 
- * No license required to access this library it is release into open source 
+ * No license required to access this library it is release in open source 
  * license
  * for any query you can write me at shubhamtrivedi95@gmail.com
  * follow me on facebook https://www.facebook.com/shubhamtrivedi95
