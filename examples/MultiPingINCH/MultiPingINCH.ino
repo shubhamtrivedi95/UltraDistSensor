@@ -13,7 +13,7 @@
  * for any query you can write me at shubhamtrivedi95@gmail.com
  * follow me on facebook https://www.facebook.com/shubhamtrivedi95
  * on github https://www.github.com/shubhamtrivedi95
- * for letest updates subscribe at http://electro-passionindia.blogspot.in
+ * for latest updates subscribe at http://electro-passionindia.blogspot.in
  *   
  *   Pin configuration
  *  ___________________
