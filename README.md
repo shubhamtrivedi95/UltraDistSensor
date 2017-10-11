@@ -7,10 +7,11 @@
  
  No license required to access this library it is release into open source 
  license
- for any query you can write me at shubhamtrivedi95@gmail.com
+ for any query you can write me at 
+ shubhamtrivedi95@gmail.com
  follow me on facebook https://www.facebook.com/shubhamtrivedi95
  on github https://www.github.com/shubhamtrivedi95
- for letest updates subscribe at http://electro-passionindia.blogspot.in
+ for latest updates subscribe at http://electro-passionindia.blogspot.in
    
  attach()         This function configure sensor with arduino
 
@@ -20,4 +21,4 @@
  
  ChangeTimeout()  This functionis used to change echo timeout of receiveing pulse
                   by default the timeout is 20000 microseconds
- Please note that you will get Approximated distance from HC-SR04 module which will be having plus or minus 2% tolernace. 
+ Please note that you will get Approximated distance from HC-SR04 module which will be having plus or minus 1cm or 1 inch tolernace. 
